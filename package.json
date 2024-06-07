@@ -1,7 +1,7 @@
 {
   "name": "avishkant-patidar-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Avishkant/portfolio1",
+  "homepage": "https://avishkant-patidar.onrender.com/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

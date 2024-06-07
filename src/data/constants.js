@@ -11,7 +11,7 @@ export const Bio = {
     "I am motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Avishkant",
   resume:
-    "https://drive.google.com/file/d/1V8GRNtgcesTPa-vSDf_7AUZcUnSeGlQy/view?usp=drive_link",
+    "https://drive.google.com/file/d/1CKQYQyBgvDP_wKbP2wppdbyr_SUxjxKn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/avishkant-patidar-aa7b9a187",
   twitter: "https://twitter.com/Avishkant1",
   insta: "https://www.instagram.com/mr.avii__/",
@@ -246,7 +246,7 @@ export const education = [
      img: "https://user-images.githubusercontent.com/109219822/273382872-f055bd06-0e2a-469c-85ea-1e4b92f69440.png",
     school: "Maulana Azad National Institute of Technology Bhopal",
     date: "August 2022 - June 2025",
-    grade: "8.77 CGPA",
+    grade: "8.78 CGPA",
     // desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Master of Computer Application (MCA)",
   },
@@ -270,7 +270,28 @@ export const education = [
   },
 ];
 
-export const projects = [
+export const projects = [ 
+
+
+  {
+    id: 9,
+    title: "SocialFleet",
+    date: "January 2024 - April 2024",
+    description:
+      "SocialFleet a social media platform enabling users to connect, share information, and engage with communities of shared interests.",
+    image:
+      "https://private-user-images.githubusercontent.com/109219822/337542218-6ececd39-df81-4231-84d8-10b7c8f03870.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDA4NjAsIm5iZiI6MTcxNzc0MDU2MCwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQyMjE4LTZlY2VjZDM5LWRmODEtNDIzMS04NGQ4LTEwYjdjOGYwMzg3MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNjA5MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTQ1MmIzNzdkYTdlZjU3ZDdmN2U3NmMxZTExMGY5NjJlMmI3MDQ0ZWEzMGNkODI4MjAwNTY1OTQwMzEzMGU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SdQxNFSY9VqD4fJh3yRz09ybOVDOQxfNRqM8LXQAfdo",
+    tags: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Tailwind CSS",
+      "SQL",
+    ],
+    category: "web app",
+    github: "https://github.com/Avishkant/socialFleet",
+    webapp: "https://socialfleet.onrender.com/",
+  },
   {
     id: 9,
     title: "WayGrow",
@@ -295,7 +316,7 @@ export const projects = [
   {
     id: 0,
     title: "StayNow",
-    date: "Apr 2023 - May 2023",
+    date: "April 2023 - May 2023",
     description:
       "Developed a website that allows users to book Hotel and view Heritage sites with Image Gallery.",
     image:
@@ -335,6 +356,19 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Avishkant/Weather_App",
     webapp: "https://avishkant.github.io/Weather_App/",
+  },
+  {
+    id: 0,
+    title: "College Website",
+    date: "Feb 2023 - March 2023",
+    description:
+      "Developed a website for the college to get information about admission, courses offered and fees structure.",
+    image:
+      "https://private-user-images.githubusercontent.com/109219822/337548517-98803ddf-df9a-47ba-bc7b-db161dea43ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDE1ODYsIm5iZiI6MTcxNzc0MTI4NiwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQ4NTE3LTk4ODAzZGRmLWRmOWEtNDdiYS1iYzdiLWRiMTYxZGVhNDNlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNjIxMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDQyODM4OTk0NjE1MDA0MmI3ZmJhMDA0ZTllMTFlNmE3YmNmNjc1MzBjODRmOGM5MTAyMGQxYThmZWZhYWQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q-VvOQ4zkw2ppjxcYv3gR40nsWr18cgSpeLRKh8XWTA",
+    tags: ["HTML", "CSS"],
+    category: "web app",
+    github: "https://github.com/Avishkant/himalaya.github.io",
+    webapp: "https://avishkant.github.io/himalaya.github.io/",
   },
   // {
   //   id: 2,

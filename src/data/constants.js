@@ -145,7 +145,7 @@ export const skills = [
 export const experiences = [
     {
     id: 0,
-    img: "https://private-user-images.githubusercontent.com/109219822/340573902-46dc00d3-fbb4-4937-859a-159b43aaac35.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2OTQ1NTEsIm5iZiI6MTcxODY5NDI1MSwicGF0aCI6Ii8xMDkyMTk4MjIvMzQwNTczOTAyLTQ2ZGMwMGQzLWZiYjQtNDkzNy04NTlhLTE1OWI0M2FhYWMzNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNzA0MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MjZhNDA4MjkzYjY0ZDUyMjU1NmM5YWFhMGM1ZjY0YjgzNTBiYzdkN2Q1YTM2NmEwOTVkNjk2NWI3YTRlMzE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ANeCy1As7O1lifwy0yIVDds2Pgt6B4XFV9dvGR9s2yc",
+    img: "https://raw.githubusercontent.com/Avishkant/portfolio1/main/src/images/rubiks_logo.jpg",
     role: "Social Media Team Head",
     company: "Rubiks (The Cultural Club), MANIT Bhopal",
     date: "November 2023 - Present",
@@ -289,13 +289,13 @@ export const projects = [
 
 
   {
-    id: 9,
+    id: 0,
     title: "SocialFleet",
     date: "January 2024 - April 2024",
     description:
       "SocialFleet a social media platform enabling users to connect, share information, and engage with communities of shared interests.",
     image:
-      "https://private-user-images.githubusercontent.com/109219822/337540765-db11c9f7-f384-4b93-983b-b5c07902cff3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2OTEyNDYsIm5iZiI6MTcxODY5MDk0NiwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQwNzY1LWRiMTFjOWY3LWYzODQtNGI5My05ODNiLWI1YzA3OTAyY2ZmMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNjA5MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OGU2NjQyZWYyMWYxMDk2ZTlmMDZkZTQwZjQ0ZTFiOTMyMzNhYjVhYTE5NTcwZmRlMzY4YmFlMzg5Y2EyNjA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bXy1jLim92s298IuY69q_QL6gRZ5RysTH-06sz-27cs",
+      "https://raw.githubusercontent.com/Avishkant/portfolio1/main/src/images/socialFelltImage.jpg",
     tags: [
       "React.js",
       "Node.js",
@@ -308,7 +308,7 @@ export const projects = [
     webapp: "https://socialfleet.onrender.com/",
   },
   {
-    id: 9,
+    id: 1,
     title: "WayGrow",
     date: "April 2021 - May 2021",
     description:
@@ -329,7 +329,7 @@ export const projects = [
     webapp: "https://avishkant.github.io/waygrow.github.io/",
   },
   {
-    id: 0,
+    id: 2,
     title: "StayNow",
     date: "April 2023 - May 2023",
     description:
@@ -356,7 +356,7 @@ export const projects = [
     // ],
   },
   {
-    id: 1,
+    id: 3,
     title: "Weather App",
     date: "May 2023 - May 2023",
     description:
@@ -373,13 +373,13 @@ export const projects = [
     webapp: "https://avishkant.github.io/Weather_App/",
   },
   {
-    id: 0,
+    id: 4,
     title: "College Website",
     date: "Feb 2023 - March 2023",
     description:
       "Developed a website for the college to get information about admission, courses offered and fees structure.",
     image:
-      "https://private-user-images.githubusercontent.com/109219822/337548517-98803ddf-df9a-47ba-bc7b-db161dea43ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2OTExODAsIm5iZiI6MTcxODY5MDg4MCwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQ4NTE3LTk4ODAzZGRmLWRmOWEtNDdiYS1iYzdiLWRiMTYxZGVhNDNlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNjA4MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNzlmMjM4NThjYzM5YTdmZmFjZGY1ZTAzZTQyMzE2NTQ4Mzc4ODY2ZTQyMzY4NjkwZmU5ZTU1Y2I1ZGUxYjcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Uu52VjiAp_TOdqQeQuZx0rH_PbXA60vmMxBrceIn0ls",
+      "https://raw.githubusercontent.com/Avishkant/portfolio1/main/src/images/HimalayaImage.jpg",
     tags: ["HTML", "CSS"],
     category: "web app",
     github: "https://github.com/Avishkant/himalaya.github.io",

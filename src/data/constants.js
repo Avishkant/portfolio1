@@ -145,7 +145,7 @@ export const skills = [
 export const experiences = [
     {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://private-user-images.githubusercontent.com/109219822/340573902-46dc00d3-fbb4-4937-859a-159b43aaac35.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2OTQ1NTEsIm5iZiI6MTcxODY5NDI1MSwicGF0aCI6Ii8xMDkyMTk4MjIvMzQwNTczOTAyLTQ2ZGMwMGQzLWZiYjQtNDkzNy04NTlhLTE1OWI0M2FhYWMzNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNzA0MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MjZhNDA4MjkzYjY0ZDUyMjU1NmM5YWFhMGM1ZjY0YjgzNTBiYzdkN2Q1YTM2NmEwOTVkNjk2NWI3YTRlMzE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ANeCy1As7O1lifwy0yIVDds2Pgt6B4XFV9dvGR9s2yc",
     role: "Social Media Team Head",
     company: "Rubiks (The Cultural Club), MANIT Bhopal",
     date: "November 2023 - Present",

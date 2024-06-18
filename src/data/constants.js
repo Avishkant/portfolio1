@@ -31,11 +31,11 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
-      {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
+      // {
+      //   name: "Bootstrap",
+      //   image:
+      //     "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      // },
       {
         name: "Tailwind CSS",
         image:
@@ -63,17 +63,17 @@ export const skills = [
     ],
   },
   {
-    title: "Programming Languages",
+    title: "Languages",
     skills: [
       {
         name: "C",
         image: "https://user-images.githubusercontent.com/109219822/273381899-a4d96bc9-5ede-4454-962e-c87379ab2540.png",
       },
-      {
-        name: "C++",
-        image:
-          "https://user-images.githubusercontent.com/109219822/273381902-966f6a7e-b54e-4724-817f-9f682eca5251.png",
-      },
+      // {
+      //   name: "C++",
+      //   image:
+      //     "https://user-images.githubusercontent.com/109219822/273381902-966f6a7e-b54e-4724-817f-9f682eca5251.png",
+      // },
       {
         name: "Java",
         image:
@@ -84,11 +84,11 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
+      // {
+      //   name: "Python",
+      //   image:
+      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      // },
       {
         name: "MySQL",
         image:
@@ -155,7 +155,7 @@ export const experiences = [
       "Leadership",
       "Photoshop",
     ],
-    doc: "https://user-images.githubusercontent.com/109219822/273383042-74cb05b1-4294-4ad2-b9ed-73234d3dd303.jpg",
+    doc: "https://private-user-images.githubusercontent.com/109219822/340550117-d6bfc1ef-9b4f-4f57-baa4-95042daa4ab3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2ODkwNDcsIm5iZiI6MTcxODY4ODc0NywicGF0aCI6Ii8xMDkyMTk4MjIvMzQwNTUwMTE3LWQ2YmZjMWVmLTliNGYtNGY1Ny1iYWE0LTk1MDQyZGFhNGFiMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNTMyMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTAyZDFhMTRkM2RmZTUyZDU5ZTczNjRkOTJmNDY1ZjliYjVkMmYyNmZkYTc1MmY5MzM2NzQxYWNlNjA5NzliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DlcrOOg9UFhJnOk2V7LdYuUo0hYgPUlnOtjZyM7RywM",
   },
   // {
   //   id: 0,

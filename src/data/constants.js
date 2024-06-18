@@ -143,8 +143,23 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+    {
     id: 0,
+    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    role: "Social Media Team Head",
+    company: "Rubiks (The Cultural Club), MANIT Bhopal",
+    date: "November 2023 - Present",
+    desc: "Lead and manage the social media team to enhance the club's online presence. Plan and execute social media strategies for event promotion and member engagement.",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+    ],
+    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+  },
+  {
+    id: 1,
     img: "https://user-images.githubusercontent.com/109219822/273382639-76fe0a8b-0331-43aa-af3b-fb4a870e3922.png",
     role: "Graphic Designer",
     company: "Shri Vaishnav Institute of Management Indore",
@@ -155,7 +170,7 @@ export const experiences = [
       "Leadership",
       "Photoshop",
     ],
-    doc: "https://private-user-images.githubusercontent.com/109219822/340550117-d6bfc1ef-9b4f-4f57-baa4-95042daa4ab3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2ODkwNDcsIm5iZiI6MTcxODY4ODc0NywicGF0aCI6Ii8xMDkyMTk4MjIvMzQwNTUwMTE3LWQ2YmZjMWVmLTliNGYtNGY1Ny1iYWE0LTk1MDQyZGFhNGFiMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNTMyMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTAyZDFhMTRkM2RmZTUyZDU5ZTczNjRkOTJmNDY1ZjliYjVkMmYyNmZkYTc1MmY5MzM2NzQxYWNlNjA5NzliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DlcrOOg9UFhJnOk2V7LdYuUo0hYgPUlnOtjZyM7RywM",
+    // doc: "https://private-user-images.githubusercontent.com/109219822/340550117-d6bfc1ef-9b4f-4f57-baa4-95042daa4ab3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2ODkwNDcsIm5iZiI6MTcxODY4ODc0NywicGF0aCI6Ii8xMDkyMTk4MjIvMzQwNTUwMTE3LWQ2YmZjMWVmLTliNGYtNGY1Ny1iYWE0LTk1MDQyZGFhNGFiMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNTMyMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTAyZDFhMTRkM2RmZTUyZDU5ZTczNjRkOTJmNDY1ZjliYjVkMmYyNmZkYTc1MmY5MzM2NzQxYWNlNjA5NzliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DlcrOOg9UFhJnOk2V7LdYuUo0hYgPUlnOtjZyM7RywM",
   },
   // {
   //   id: 0,
@@ -280,7 +295,7 @@ export const projects = [
     description:
       "SocialFleet a social media platform enabling users to connect, share information, and engage with communities of shared interests.",
     image:
-      "https://private-user-images.githubusercontent.com/109219822/337542218-6ececd39-df81-4231-84d8-10b7c8f03870.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDA4NjAsIm5iZiI6MTcxNzc0MDU2MCwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQyMjE4LTZlY2VjZDM5LWRmODEtNDIzMS04NGQ4LTEwYjdjOGYwMzg3MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNjA5MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTQ1MmIzNzdkYTdlZjU3ZDdmN2U3NmMxZTExMGY5NjJlMmI3MDQ0ZWEzMGNkODI4MjAwNTY1OTQwMzEzMGU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SdQxNFSY9VqD4fJh3yRz09ybOVDOQxfNRqM8LXQAfdo",
+      "https://private-user-images.githubusercontent.com/109219822/337540765-db11c9f7-f384-4b93-983b-b5c07902cff3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2OTEyNDYsIm5iZiI6MTcxODY5MDk0NiwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQwNzY1LWRiMTFjOWY3LWYzODQtNGI5My05ODNiLWI1YzA3OTAyY2ZmMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNjA5MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OGU2NjQyZWYyMWYxMDk2ZTlmMDZkZTQwZjQ0ZTFiOTMyMzNhYjVhYTE5NTcwZmRlMzY4YmFlMzg5Y2EyNjA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bXy1jLim92s298IuY69q_QL6gRZ5RysTH-06sz-27cs",
     tags: [
       "React.js",
       "Node.js",
@@ -364,7 +379,7 @@ export const projects = [
     description:
       "Developed a website for the college to get information about admission, courses offered and fees structure.",
     image:
-      "https://private-user-images.githubusercontent.com/109219822/337548517-98803ddf-df9a-47ba-bc7b-db161dea43ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDE1ODYsIm5iZiI6MTcxNzc0MTI4NiwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQ4NTE3LTk4ODAzZGRmLWRmOWEtNDdiYS1iYzdiLWRiMTYxZGVhNDNlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNjIxMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDQyODM4OTk0NjE1MDA0MmI3ZmJhMDA0ZTllMTFlNmE3YmNmNjc1MzBjODRmOGM5MTAyMGQxYThmZWZhYWQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q-VvOQ4zkw2ppjxcYv3gR40nsWr18cgSpeLRKh8XWTA",
+      "https://private-user-images.githubusercontent.com/109219822/337548517-98803ddf-df9a-47ba-bc7b-db161dea43ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2OTExODAsIm5iZiI6MTcxODY5MDg4MCwicGF0aCI6Ii8xMDkyMTk4MjIvMzM3NTQ4NTE3LTk4ODAzZGRmLWRmOWEtNDdiYS1iYzdiLWRiMTYxZGVhNDNlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQwNjA4MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNzlmMjM4NThjYzM5YTdmZmFjZGY1ZTAzZTQyMzE2NTQ4Mzc4ODY2ZTQyMzY4NjkwZmU5ZTU1Y2I1ZGUxYjcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Uu52VjiAp_TOdqQeQuZx0rH_PbXA60vmMxBrceIn0ls",
     tags: ["HTML", "CSS"],
     category: "web app",
     github: "https://github.com/Avishkant/himalaya.github.io",

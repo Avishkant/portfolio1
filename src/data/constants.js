@@ -11,8 +11,8 @@ export const Bio = {
     "I am motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Avishkant",
   resume:
-    "https://drive.google.com/file/d/1CKQYQyBgvDP_wKbP2wppdbyr_SUxjxKn/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/avishkant-patidar-aa7b9a187",
+    "https://drive.google.com/file/d/1vftL4UgYYMqNXzEur6_thtAV0o-hTfe1/view?usp=drive_link",
+  linkedin: "https://www.linkedin.com/in/avishkant-patidar",
   twitter: "https://twitter.com/Avishkant1",
   insta: "https://www.instagram.com/mr.avii__/",
   facebook: "https://www.facebook.com/profile.php?id=100009281445649",
@@ -286,10 +286,27 @@ export const education = [
 ];
 
 export const projects = [ 
-
-
   {
     id: 0,
+    title: "LunchBox",
+    date: "May 2024 - June 2024",
+    description:
+      "LunchBox is a web application designed to facilitate a seamless tiffin service provider platform using the MERN stack. It connects tiffin providers with customers seeking home-cooked meals",
+    image:
+      "https://res.cloudinary.com/dxt4hudrn/image/upload/v1723368075/Screenshot_281_iaakkh.jpg",
+    tags: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Tailwind CSS",
+      "MongoDB",
+    ],
+    category: "web app",
+    github: "https://github.com/Avishkant/LunchBox.git",
+    webapp: "https://lunchbox-0gi6.onrender.com/",
+  },
+  {
+    id: 1,
     title: "SocialFleet",
     date: "January 2024 - April 2024",
     description:
@@ -308,7 +325,7 @@ export const projects = [
     webapp: "https://socialfleet.onrender.com/",
   },
   {
-    id: 1,
+    id: 2,
     title: "WayGrow",
     date: "April 2021 - May 2021",
     description:
@@ -329,7 +346,7 @@ export const projects = [
     webapp: "https://avishkant.github.io/waygrow.github.io/",
   },
   {
-    id: 2,
+    id: 3,
     title: "StayNow",
     date: "April 2023 - May 2023",
     description:
@@ -356,7 +373,7 @@ export const projects = [
     // ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Weather App",
     date: "May 2023 - May 2023",
     description:
@@ -373,7 +390,7 @@ export const projects = [
     webapp: "https://avishkant.github.io/Weather_App/",
   },
   {
-    id: 4,
+    id: 5,
     title: "College Website",
     date: "Feb 2023 - March 2023",
     description:
